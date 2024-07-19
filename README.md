@@ -2,7 +2,7 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,mysql,git,github,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,python,sqlite,mysql,postgres,gcp,docker&theme=dark" />
 
 ## About me
 
