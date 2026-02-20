@@ -51,11 +51,7 @@ END AS lifecycle_state
 
 ## 💡 What drives me
 
-I enjoy projects where data engineering and analytics meet — not just moving data, but **modeling it so the business can answer questions that were previously impossible**. I'm especially interested in:
-
-- Retention and churn models for e-commerce and healthcare
-- Multi-touch marketing attribution with GA4 data
-- Data architectures that scale without exploding costs
+I enjoy projects where data engineering and analytics meet — not just moving data, but **modeling it so the business can answer questions that were previously impossible**.
 
 ---
 
@@ -125,11 +121,7 @@ END AS lifecycle_state
 
 ## 💡 O que me motiva
 
-Gosto de projetos onde a engenharia de dados e a análise se encontram — não só mover dados, mas **modelar de forma que o negócio consiga responder perguntas que antes eram impossíveis**. Tenho especial interesse em:
-
-- Modelos de retenção e churn para e-commerce e saúde
-- Atribuição de marketing multi-touch com dados do GA4
-- Arquiteturas de dados que escalam sem explodir o custo
+Gosto de projetos onde a engenharia de dados e a análise se encontram — não só mover dados, mas **modelar de forma que o negócio consiga responder perguntas que antes eram impossíveis**.
 
 ---
 
