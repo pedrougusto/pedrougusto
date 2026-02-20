@@ -59,15 +59,6 @@ I enjoy projects where data engineering and analytics meet — not just moving d
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" />
-</div>
-
----
-
 ## 📬 Get in touch
 
 <div align="center">
@@ -139,15 +130,6 @@ Gosto de projetos onde a engenharia de dados e a análise se encontram — não 
 - Modelos de retenção e churn para e-commerce e saúde
 - Atribuição de marketing multi-touch com dados do GA4
 - Arquiteturas de dados que escalam sem explodir o custo
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" />
-</div>
 
 ---
 
