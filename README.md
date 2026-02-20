@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pedro Augusto!
 
-### 📊 Analytics Engineer | BigQuery · Power BI · Python · GCP
+### 📊 Data Analytics | Data Science | ML & Advanced Analytics | Data-Driven Growth | IA, ETL, Statistic, Python, SQL, GCP, Power BI
 
 I build end-to-end data pipelines and analytical models that turn raw data into business intelligence. My focus is on **scalable architectures in GCP**, **advanced analytical modeling**, and **dashboards that drive decisions**.
 
@@ -70,7 +70,7 @@ I enjoy projects where data engineering and analytics meet — not just moving d
 
 # 👋 Olá! Eu sou o Pedro Augusto!
 
-### 📊 Analytics Engineer | BigQuery · Power BI · Python · GCP
+### 📊 Data Analytics | Data Science | ML & Advanced Analytics | Data-Driven Growth | IA, ETL, Statistic, Python, SQL, GCP, Power BI
 
 Construo pipelines de dados e modelos analíticos que transformam dados brutos em inteligência de negócio. Meu foco está em **arquiteturas escaláveis no GCP**, **modelagem analítica avançada** e **dashboards que geram decisão**.
 
