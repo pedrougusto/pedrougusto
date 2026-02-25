@@ -47,14 +47,6 @@ CASE
   WHEN total_roll = 1     AND total_curr = 0                THEN 'inactive'
 END AS lifecycle_state
 ```
-
-### 🐉 [Dragon Ball GenAI — LLM with Custom Knowledge Base](https://github.com/pedrougusto/bootcamp-genAI-LLM-dragonball)
-> Bootcamp project: domain-specific LLM assistant grounded on Dragon Ball lore using Google NotebookLM.
-
-- Custom knowledge base built from Dragon Ball story, characters and sagas
-- Prompt engineering to reduce hallucination and keep responses canon-accurate
-- Practical application of GenAI tools to domain-specific Q&A
-
 ---
 
 ## 💡 What drives me
@@ -130,14 +122,6 @@ CASE
   WHEN total_roll = 1     AND total_curr = 0                THEN 'inativo'
 END AS lifecycle_state
 ```
-
-### 🐉 [Dragon Ball GenAI — LLM com Base de Conhecimento Customizada](https://github.com/pedrougusto/bootcamp-genAI-LLM-dragonball)
-> Projeto de Bootcamp: assistente LLM especializado no universo Dragon Ball usando Google NotebookLM.
-
-- Base de conhecimento customizada com história, personagens e sagas do Dragon Ball
-- Engenharia de prompt para reduzir alucinações e manter respostas fiéis ao cânone
-- Aplicação prática de ferramentas de GenAI para Q&A de domínio específico
-
 ---
 
 ## 💡 O que me motiva
