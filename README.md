@@ -71,7 +71,6 @@ I enjoy projects where data engineering and analytics meet — not just moving d
 </div>
 
 ---
----
 
 # 👋 Olá! Eu sou o Pedro Augusto!
 
