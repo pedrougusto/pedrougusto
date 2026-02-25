@@ -8,6 +8,18 @@ Currently working on customer lifecycle analysis, marketing attribution pipeline
 
 ---
 
+## 📬 Get in touch
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-augusto-camargo-de-oliveira)
+[![Email](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:pedro_augusto95@hotmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515997584451)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -60,7 +72,17 @@ I enjoy projects where data engineering and analytics meet — not just moving d
 
 ---
 
-## 📬 Get in touch
+# 👋 Olá! Eu sou o Pedro Augusto!
+
+### 📊 Data Analytics | Data Science | ML & Advanced Analytics | Data-Driven Growth | IA, ETL, Estatística, Python, SQL, GCP, Power BI
+
+Construo pipelines de dados e modelos analíticos que transformam dados brutos em inteligência de negócio. Meu foco está em **arquiteturas escaláveis no GCP**, **modelagem analítica avançada** e **dashboards que geram decisão**.
+
+Atualmente trabalhando com análise de ciclo de vida de clientes, atribuição de marketing e automação de pipelines em BigQuery.
+
+---
+
+## 📬 Contatos
 
 <div align="center">
 
@@ -69,16 +91,6 @@ I enjoy projects where data engineering and analytics meet — not just moving d
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515997584451)
 
 </div>
-
----
-
-# 👋 Olá! Eu sou o Pedro Augusto!
-
-### 📊 Data Analytics | Data Science | ML & Advanced Analytics | Data-Driven Growth | IA, ETL, Estatística, Python, SQL, GCP, Power BI
-
-Construo pipelines de dados e modelos analíticos que transformam dados brutos em inteligência de negócio. Meu foco está em **arquiteturas escaláveis no GCP**, **modelagem analítica avançada** e **dashboards que geram decisão**.
-
-Atualmente trabalhando com análise de ciclo de vida de clientes, atribuição de marketing e automação de pipelines em BigQuery.
 
 ---
 
@@ -131,15 +143,3 @@ Gosto de projetos onde a engenharia de dados e a análise se encontram — não 
 - Atribuição de marketing multi-touch com dados do GA4
 - Aplicação de **IA Generativa e LLMs** a problemas reais de dados
 - Arquiteturas de dados que escalam sem explodir o custo
-
----
-
-## 📬 Contatos
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-augusto-camargo-de-oliveira)
-[![Email](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:pedro_augusto95@hotmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515997584451)
-
-</div>
