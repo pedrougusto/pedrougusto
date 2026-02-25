@@ -27,7 +27,7 @@ Currently working on customer lifecycle analysis, marketing attribution pipeline
 
 ## 🚀 Featured Projects
 
-### 🛒 [VitaShop — Customer Lifecycle Analytics](https://github.com/YOUR_USERNAME/vitashop-customer-lifecycle)
+### 🛒 [VitaShop — Customer Lifecycle Analytics](https://github.com/pedrougusto/vitashop-customer-lifecycle)
 > End-to-end BigQuery pipeline for multi-dimensional customer lifecycle classification using a 24-month rolling window.
 
 - Procedural SQL with `WHILE` loop for month-by-month historical backfill
@@ -48,7 +48,7 @@ CASE
 END AS lifecycle_state
 ```
 
-### 🐉 [Dragon Ball GenAI — LLM with Custom Knowledge Base](https://github.com/YOUR_USERNAME/bootcamp-genAI-LLM-DragonBall)
+### 🐉 [Dragon Ball GenAI — LLM with Custom Knowledge Base](https://github.com/pedrougusto/bootcamp-genAI-LLM-dragonball)
 > Bootcamp project: domain-specific LLM assistant grounded on Dragon Ball lore using Google NotebookLM.
 
 - Custom knowledge base built from Dragon Ball story, characters and sagas
@@ -110,7 +110,7 @@ Atualmente trabalhando com análise de ciclo de vida de clientes, atribuição d
 
 ## 🚀 Projetos em Destaque
 
-### 🛒 [VitaShop — Customer Lifecycle Analytics](https://github.com/YOUR_USERNAME/vitashop-customer-lifecycle)
+### 🛒 [VitaShop — Customer Lifecycle Analytics](https://github.com/pedrougusto/vitashop-customer-lifecycle)
 > Pipeline completo em BigQuery para classificação de ciclo de vida de clientes com janela temporal deslizante de 24 meses.
 
 - Procedural SQL com loop `WHILE` para backfill histórico mês a mês
@@ -131,7 +131,7 @@ CASE
 END AS lifecycle_state
 ```
 
-### 🐉 [Dragon Ball GenAI — LLM com Base de Conhecimento Customizada](https://github.com/YOUR_USERNAME/bootcamp-genAI-LLM-DragonBall)
+### 🐉 [Dragon Ball GenAI — LLM com Base de Conhecimento Customizada](https://github.com/pedrougusto/bootcamp-genAI-LLM-dragonball)
 > Projeto de Bootcamp: assistente LLM especializado no universo Dragon Ball usando Google NotebookLM.
 
 - Base de conhecimento customizada com história, personagens e sagas do Dragon Ball
