@@ -37,30 +37,6 @@ Currently working on customer lifecycle analysis, marketing attribution pipeline
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 [VitaShop — Customer Lifecycle Analytics](https://github.com/pedrougusto/vitashop-customer-lifecycle)
-> End-to-end BigQuery pipeline for multi-dimensional customer lifecycle classification using a 24-month rolling window.
-
-- Procedural SQL with `WHILE` loop for month-by-month historical backfill
-- 5-state classification: **new · recurring · inactive · churned · recovered**
-- Independent labels per brand, payment method, product type and fulfillment modality
-- Window functions with `COUNT DISTINCT CASE WHEN` across multiple partitions
-- GA4 last-touch channel attribution with `QUALIFY ROW_NUMBER()` deduplication
-- Partitioned output table ready for Power BI / Looker consumption
-
-```sql
--- Lifecycle state classification logic
-CASE
-  WHEN total_hist = 0 AND total_roll = 0 AND total_curr > 0 THEN 'new'
-  WHEN total_hist > 0 AND total_roll = 0 AND total_curr = 0 THEN 'churned'
-  WHEN total_hist > 0 AND total_roll = 0 AND total_curr > 0 THEN 'recovered'
-  WHEN (total_roll + total_curr) >= 2                       THEN 'recurring'
-  WHEN total_roll = 1     AND total_curr = 0                THEN 'inactive'
-END AS lifecycle_state
-```
----
-
 ## 💡 What drives me
 
 I enjoy projects where data engineering and analytics meet — not just moving data, but **modeling it so the business can answer questions that were previously impossible**. I'm especially interested in:
@@ -109,30 +85,6 @@ Atualmente trabalhando com análise de ciclo de vida de clientes, atribuição d
 
 </div>
 
----
-
-## 🚀 Projetos em Destaque
-
-### 🛒 [VitaShop — Customer Lifecycle Analytics](https://github.com/pedrougusto/vitashop-customer-lifecycle)
-> Pipeline completo em BigQuery para classificação de ciclo de vida de clientes com janela temporal deslizante de 24 meses.
-
-- Procedural SQL com loop `WHILE` para backfill histórico mês a mês
-- Classificação em 5 estados: **novo · recorrente · inativo · churn · recuperado**
-- Labels independentes por marca, pagamento, tipo de produto e modalidade de entrega
-- Window functions com `COUNT DISTINCT CASE WHEN` particionadas por múltiplas dimensões
-- Atribuição de canal GA4 com deduplicação por `QUALIFY ROW_NUMBER()`
-- Tabela final particionada, pronta para consumo em Power BI / Looker
-
-```sql
--- Lógica de classificação do ciclo de vida
-CASE
-  WHEN total_hist = 0 AND total_roll = 0 AND total_curr > 0 THEN 'novo'
-  WHEN total_hist > 0 AND total_roll = 0 AND total_curr = 0 THEN 'churn'
-  WHEN total_hist > 0 AND total_roll = 0 AND total_curr > 0 THEN 'recuperado'
-  WHEN (total_roll + total_curr) >= 2                       THEN 'recorrente'
-  WHEN total_roll = 1     AND total_curr = 0                THEN 'inativo'
-END AS lifecycle_state
-```
 ---
 
 ## 💡 O que me motiva
